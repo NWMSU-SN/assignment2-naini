@@ -21,3 +21,5 @@
 - Electronic Items
 - Food Items
 - Money
+
+![Santhosh Naini](https://github.com/NWMSU-SN/assignment2-naini/blob/main/naini.jpg)
