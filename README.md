@@ -15,3 +15,9 @@
     3. Chicago to New Delhi (IGI)
     4. New Delhi to Hyderabad (RGI)
     5. Hyderabad to Nizamabad (Domestic)
+
+- Peace
+- Clothes
+- Electronic Items
+- Food Items
+- Money
