@@ -34,3 +34,8 @@
 | Maggie | DLF | $3 |
 | shawarma | Hitechcity | $1 |
 | Icecream | Creamstone | $2 |
+
+---
+# Pithy Quotes
+>*"And the trush shall make you free"*<br/>
+>*"With the past, I have nothing to do; nor with the future. I live now."* -*Ralph Waldo Emerson*<br/>
