@@ -23,3 +23,14 @@
 - Money
 
 ![Santhosh Naini](https://github.com/NWMSU-SN/assignment2-naini/blob/main/naini.jpg)
+
+---
+
+# Food/Drink that I would recommend to my friend
+| Food/Drink | Location | Price |
+| :---: | :---: | :---: |
+| Grill Chicken | Hyderabad | $12 |
+| Parota | Pista house | $15 |
+| Maggie | DLF | $3 |
+| shawarma | Hitechcity | $1 |
+| Icecream | Creamstone | $2 |
